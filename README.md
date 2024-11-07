@@ -1,1 +1,1 @@
-- HousesHere é um site que eu fiz para praticar minhas habilidades de front-end utilizando: Bootstrap, html e css
+- HousesHere é um site de venda de casas que eu fiz para praticar minhas habilidades de front-end utilizando: Bootstrap, html e css
